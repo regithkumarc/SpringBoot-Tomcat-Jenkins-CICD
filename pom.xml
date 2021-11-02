@@ -11,9 +11,9 @@
 	</parent>
 	<groupId>com.springboot.demo</groupId>
 	<artifactId>SpringBoot-Tomcat-Jenkins-CICD</artifactId>
-	<version>0.0.1-SNAPSHOT</version>
 	<packaging>war</packaging>
-	<name>SpringBoot-Tomcat-Jenkins-CICD</name>
+	<version>0.0.1</version>
+	<name>springboot-tomcat-jenkins-cicd</name>
 	<description>Spring Booth with Tomcat Server</description>
 	<properties>
 		<java.version>1.8</java.version>
