@@ -10,7 +10,7 @@ public class TestController {
 	
 	@GetMapping("/message")
 	public String getMessage() {
-		return "Messsgage fetched successfully";
+		return "Message fetched successfully from Test Controller";
 	}
 
 }
